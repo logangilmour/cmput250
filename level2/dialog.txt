@@ -1,15 +1,110 @@
 === Meet Kid ===
-Little Girl: Hi!
+Little Girl: 
+Hi!
 
-Deckard: Hey kid. Where's your mommy?
+Deckard: 
+Hey kid. Where's your mommy?
 
-Little Girl: My mommy's sleeping! She was reading me my favourite book, but now she's sleeping. I hope she wakes up soon and finishes reading.
+Little Girl: 
+My mommy's sleeping! She was reading me my favourite book, but now she's sleeping. I hope she wakes up soon and finishes reading.
 
-Deckard: What's your favourite book?
+Deckard: 
+What's your favourite book?
 
-Little Girl: Oh the Places You'll Go! It's by Dr. Seuss.
+Little Girl: 
+Oh the Places You'll Go! It's by Dr. Seuss.
 
-Deckard: That's a good book, kid. Let's find your mommy.
+Deckard: 
+That's a good book, kid. Let's find your mommy.
 
-Little Girl: OK!
+Little Girl: 
+OK!
+
+=== Kid 2 ===
+Little Girl: 
+My book! Will you read it to me? Pleeeease?
+
+Deckard: 
+Sorry kid. No time. You know about the big computer where all of the memories live?
+
+Little Girl:
+Yeah! Big Sis' is going there today. She's going to get rid of mommy's nightmares!
+
+Deckard:
+Sounds good kid. Anyway, It's my job to take care of that computer, and it's broken. I think that's why your mommy here is all froze up.
+
+Little Girl:
+Oh, OK. Mommy does this all the time though. Is the computer broken all the time?
+
+Deckard:
+I don't know, kid. Anyway, I'm going to try to help her.
+
+=== The Mom ===
+
+Mom:
+Strange... I... I was just about to...
+
+Deckard:
+I found your kid wandering around in the street.
+
+Mom: 
+Oh... Hey baby!
+
+Deckard:
+You should probably... Never mind. I can tell I'm wasting my breath here. You know how I can get through to the city centre?
+
+Mom:
+I... I don't... remember...
+
+Deckard:
+Please try to remember. I think something very bad is happening.
+
+Mom:
+You could try my uh... supplier... I think he goes there sometimes... he's just over there. Hmm... you look familiar..."
+
+Deckard:
+Alright, thanks.
+
+=== Jensen ===
+Jensen:
+Deckard! You almost here?
+
+Deckard:
+Take it easy, man. I'm coming as fast as I can. Seems like this shit's been affecting the whole city - everyone I've seen so far has been in a fragment loop. Somethings seriously corrupted.
+
+Jensen:
+Shit. That's not good. I'm still trapped. I've been looking through the camera feeds. Some woman's set up at one of the side-entrances, trying to get in. Doesn't look like anyone I know. Everyone else is just... standing still.
+
+Deckard:
+Probably all in fragment loops. Wonder why that woman isn't.
+
+Jensen:
+I don't know, man. I've got a bad feeling. Hurry up.
+
+Deckard:
+I'm hurrying.
+
+=== Dealer ===
+Dealer:
+Wha... What's up, man?
+
+Deckard:
+You know a way to city centre without going through the checkpoint?
+
+Dealer:
+Yeah man... but why should I tell you? You look like some kind of cop.
+
+Deckard:
+I've got bigger problems than your illegal memory smuggling, buddy. If I can't get through, though, I won't have much to do. And I like having something to do. Hauling your ass in - that's something to do.
+
+Dealer:
+OK, OK, I get the picture. Here. Just head through this hatch, down a tunnel, and then up through the next hatch you find.
+
+Deckard:
+Thanks buddy. Try not to ruin to many lives.
+
+Dealer:
+Hey man, I just give people what they want.
+
+
 
