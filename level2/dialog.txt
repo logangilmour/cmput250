@@ -70,13 +70,13 @@ Jensen:
 Deckard! You almost here?
 
 Deckard:
-Take it easy, man. I'm coming as fast as I can. Seems like this shit's been affecting the whole city - everyone I've seen so far has been in a fragment loop. Somethings seriously corrupted.
+Take it easy, man. I'm coming as fast as I can. Seems like this shit's been affecting the whole city - everyone I've seen so far has been in a fragment loop. Something's seriously corrupted.
 
 Jensen:
 Shit. That's not good. I'm still trapped. I've been looking through the camera feeds. Some woman's set up at one of the side-entrances, trying to get in. Doesn't look like anyone I know. Everyone else is just... standing still.
 
 Deckard:
-Probably all in fragment loops. Wonder why that woman isn't.
+Probably all in fragment loops. Wonder why your door woman isn't.
 
 Jensen:
 I don't know, man. I've got a bad feeling. Hurry up.
@@ -105,6 +105,3 @@ Thanks buddy. Try not to ruin to many lives.
 
 Dealer:
 Hey man, I just give people what they want.
-
-
-

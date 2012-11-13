@@ -1,0 +1,98 @@
+=== Stacy the Forklift ===
+Stacy:
+Deckard! What just happened?
+
+Deckard:
+Don't worry Stacy - you were just in a fragment loop. You've been out of it for about a half-hour or so, but you're fine now.
+
+Stacy:
+Huh... I... weird. I definitely feel weird. Did you fix me?
+
+Deckard:
+Yep. Just doing my job.
+
+Stacy: 
+Thanks! I appreciate it.
+
+Deckard:
+Any time, Stacy. Hey, do you think you could move those boxes blocking the bridge? I need to get across. I think the whole city is locked up just like you were.
+
+Stacy:
+Yeah, of course! Go quick - fix it!
+
+=== Jensen ===
+
+Jensen:
+Deckard! You here yet?
+
+Deckard:
+Almost - just on the bridge.
+
+Jensen:
+Hurry! That woman managed to get in, and she signed in with credentials that she definitely shouldn't have. The console's telling me that she's some sort of army general.
+
+Deckard:
+Oh fuck.
+
+Jensen:
+I think she caused this shit. She's in the module control room now, messing around with something. I don't know what the hell she's up to, but I'm guessing it's not good. And no one is responding on any of the emergency lines.
+
+Deckard:
+Hold on man, I'm coming.
+
+=== Haxor ===
+
+Hacker: 
+Deckard!
+
+Deckard:
+What are you doing? How do you know my name?
+
+Hacker:
+I'm trying to destroy the system.
+
+Deckard:
+Why?
+
+Hacker:
+It needs to be destroyed. Experience is dead.
+
+Deckard:
+But, it's... it's progress! It's amazing! Mankind instantly shares everything! How can you call that a bad thing with a straight face? Who are you?
+
+Hacker:
+You don't remember. Rationally, I know you don't, but it's - it's still hard to see it in your eyes.
+
+Deckard:
+What?
+
+Hacker:
+I'll show you.
+
+=== Haxor ===
+
+Hacker:
+See?
+
+Deckard:
+What the hell is going on?
+
+Hacker:
+They found out you were secretely working toward changing the system. To contribute. They wiped your memory. They stopped us.
+
+Deckard:
+I... but... I don't remember...
+
+Hacker:
+That was the point. Please. There's no time. Now that you've seen, I need your help. I need your access credentials. Just push that blue button and you'll give me permission to free everyone, just like we wanted.
+
+=== Jensen ===
+
+Jensen:
+Deckard! Don't listen to her! She's manipulating you! Whatever you experienced just now, it was a fabrication!
+
+Deckard:
+Jensen? Did they wipe my memories?
+
+Jensen:
+Of course not! Think about it. You'd know if something like that had happened to you. You'd know you were missing something. Just push that yellow button. It'll let me out of lockdown so we can detain her.
