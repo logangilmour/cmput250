@@ -39,6 +39,15 @@ Oh, OK. Mommy does this all the time though. Is the computer broken all the time
 Deckard:
 I don't know, kid. Anyway, I'm going to try to help her.
 
+=== Mom Puzzle ===
+
+I was reading to Abby
+My dealer came over
+I gave him $1
+He gave me my new memories
+
+
+
 === The Mom ===
 
 Mom:
@@ -83,6 +92,18 @@ I don't know, man. I've got a bad feeling. Hurry up.
 
 Deckard:
 I'm hurrying.
+
+=== Dealer Puzzle ===
+
+Went to the first junkie
+Ledger
+
+Got X dollars from the first junkie
+Gave the first junkie the orange memory storage
+Went to the second junkie
+Gave Y dollars to the second junkie
+
+Walked to ___ (where he is)
 
 === Dealer ===
 Dealer:

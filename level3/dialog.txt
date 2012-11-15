@@ -1,3 +1,13 @@
+=== Stacy Puzzle ===
+
+Boxes: Whether it's under another box, whether it's behind another box, whether it would have come from a specific shipment, whether it's full or empty
+
+Container of some kind (Sea-Can (modern exterior structures) maybe? or truck or cargo ship)
+
+Pallets they are involved (boxes came off of or went on to pallets of various colours)
+
+
+
 === Stacy the Forklift ===
 Stacy:
 Deckard! What just happened?
@@ -43,13 +53,13 @@ Hold on man, I'm coming.
 === Haxor ===
 
 Hacker: 
-Deckard!
+Deckard! Good, you're here.
 
 Deckard:
 What are you doing? How do you know my name?
 
 Hacker:
-I'm trying to destroy the system.
+I'm destroying the system.
 
 Deckard:
 Why?
@@ -68,6 +78,23 @@ What?
 
 Hacker:
 I'll show you.
+
+=== MIND PUZZLE ===
+
+I was planning with Isis
+(Both sitting at a table talking over papers, ideally doing some friendly animation, even one grabbing hand of other if possible)
+
+I was struck to the ground
+(Both stand up as cops rush in, Deckard is punched and does dying animation)
+
+Isis escaped
+(With Deckard's body lying on the ground, we see isis rush out through the back, turn to look, and then run out of frame)
+
+The took me outside
+(Deckard leaves building surrounded by police)
+
+They wiped my memory
+(Some sort of head level animation by one of the guards, police bots standing around, takes place against the wall, ideally guard has some kind of device in his hand)
 
 === Haxor ===
 
