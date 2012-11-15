@@ -8,27 +8,36 @@ Case: [A01] pkt_cont03
 Disk: [A01] SG Composant Opto-disc
 Book: Dungeon masters guide motha fucka
 
-I put down the book I was reading to Abby. 
-My dealer gave me a new book for Abby - I set it down.
-I transferred payment to my dealer.
-I got the disk of new memories.
-I started getting ready to load in my new memories.
+1. I started getting ready to load in my new memories.
+2. My dealer gave me a new book for Abby - I set it down.
+3. I got the disk of new memories.
+4. I transferred payment to my dealer.
+5. I put down the book I was reading to Abby. 
+
+Solution: 52431
 
 == Dealer Puzzle ==
 
-I gave Abby's mom "The Wind in the Willows".
-I sold Abby's mom some memories.
-I crouched down and told Abby to be good before I left.
-I walked back to my stash. (locked storage locker)
-I smoked a ciggarette. (the ciggarretes are near where he's standing)
+1. I gave Abby's mom "The Wind in the Willows".
+2. I smoked a ciggarette. (the ciggarretes are near where he's standing)
+3. I sold Abby's mom some memories.
+4. I walked back to my stash. (locked storage locker)
+5. I crouched down and told Abby to be good before I left.
+
+solution: 13542
 
 === Stacy Puzzle ===
 
-I moved a box of office supplies.
-I layed down another pallet.
-I moved a box of biohazardous materials.
-I moved a box of guns.
-I moved a box of office supplies.
+1. I layed down another pallet.
+2. I moved a box of biohazardous materials.
+3. I moved a box of office supplies.
+4. I moved a box of office supplies.
+5. I moved a box of guns.
+
+solutions: 31254 or 41253
+
+
+
 
 === MIND PUZZLE ===
 
@@ -46,3 +55,11 @@ They took me outside.
 
 They wiped my memory.
 (Some sort of head level animation by one of the guards, police bots standing around, takes place against the wall, ideally guard has some kind of device in his hand)
+
+1. The cops rushed me.
+2. We were planning.
+3. They wiped my memory.
+4. They took me outside.
+5. She escaped.
+
+Solution: 21543
